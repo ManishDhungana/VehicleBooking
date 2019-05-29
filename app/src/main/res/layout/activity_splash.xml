@@ -16,14 +16,14 @@
         android:layout_marginRight="20dp"
         android:src="@drawable/logo"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/logo_id"
-        android:layout_centerHorizontal="true"
-        android:text="Splash Screen"
-        android:textSize="30dp"
-        android:background="@color/colorPrimary"
-        android:textColor="#DAD1CE  "/>
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@+id/logo_id"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:text="Splash Screen"-->
+    <!--android:textSize="30dp"-->
+    <!--android:background="@color/colorPrimary"-->
+    <!--android:textColor="#DAD1CE  "/>-->
 
 </LinearLayout>
